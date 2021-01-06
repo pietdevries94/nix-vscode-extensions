@@ -5,20 +5,20 @@ let
 in
 {
   extra-vscode-extensions = {
-    Bauke.horizon-vscode = buildVscodeMarketplaceExtension {
-      mktplcRef = {
-        name = "horizon-vscode";
-        publisher = "Bauke";
-        version = "3.0.3";
-        sha256 = "0njdlmvrb8pdk81bv92dppvn3jgqhfc7zx6f349f11yxwgs9hwsr";
-      };
-    };
     arrterian.nix-env-selector = buildVscodeMarketplaceExtension {
       mktplcRef = {
         name = "nix-env-selector";
         publisher = "arrterian";
         version = "0.1.2";
         sha256 = "1n5ilw1k29km9b0yzfd32m8gvwa2xhh6156d4dys6l8sbfpp2cv9";
+      };
+    };
+    Bauke.horizon-vscode = buildVscodeMarketplaceExtension {
+      mktplcRef = {
+        name = "horizon-vscode";
+        publisher = "Bauke";
+        version = "3.0.3";
+        sha256 = "0njdlmvrb8pdk81bv92dppvn3jgqhfc7zx6f349f11yxwgs9hwsr";
       };
     };
     bbenoist.Nix = buildVscodeMarketplaceExtension {
@@ -37,6 +37,14 @@ in
         sha256 = "08lhzhrn6p0xwi0hcyp6lj9bvpfj87vr99klzsiy8ji7621dzql3";
       };
     };
+    dbaeumer.vscode-eslint = buildVscodeMarketplaceExtension {
+      mktplcRef = {
+        name = "vscode-eslint";
+        publisher = "dbaeumer";
+        version = "2.1.14";
+        sha256 = "113w2iis4zi4z3sqc3vd2apyrh52hbh2gvmxjr5yvjpmrsksclbd";
+      };
+    };
     eamodio.gitlens = buildVscodeMarketplaceExtension {
       mktplcRef = {
         name = "gitlens";
@@ -51,6 +59,14 @@ in
         publisher = "golang";
         version = "0.20.1";
         sha256 = "0hhxgkv7p2hbjqj9q9xdlkcnva6b2lcszcpxj7fy4wfqz1w9lcaj";
+      };
+    };
+    gruntfuggly.todo-tree = buildVscodeMarketplaceExtension {
+      mktplcRef = {
+        name = "todo-tree";
+        publisher = "gruntfuggly";
+        version = "0.0.193";
+        sha256 = "1cqp10pwyjic1p8ss1f5ng9igqmaqn10l65fpyka1dy2k90i1yay";
       };
     };
     matklad.rust-analyzer = buildVscodeMarketplaceExtension {

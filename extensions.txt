@@ -1,9 +1,11 @@
-Bauke.horizon-vscode
 arrterian.nix-env-selector
+Bauke.horizon-vscode
 bbenoist.Nix
 bungcip.better-toml
+dbaeumer.vscode-eslint
 eamodio.gitlens
 golang.go
+gruntfuggly.todo-tree
 matklad.rust-analyzer
 naumovs.color-highlight
 octref.vetur
