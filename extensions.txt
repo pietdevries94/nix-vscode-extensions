@@ -1,0 +1,9 @@
+Bauke.horizon-vscode
+arrterian.nix-env-selector
+bbenoist.Nix
+bungcip.better-toml
+eamodio.gitlens
+golang.go
+matklad.rust-analyzer
+naumovs.color-highlight
+octref.vetur
