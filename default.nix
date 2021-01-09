@@ -57,8 +57,8 @@ in
       mktplcRef = {
         name = "go";
         publisher = "golang";
-        version = "0.20.1";
-        sha256 = "0hhxgkv7p2hbjqj9q9xdlkcnva6b2lcszcpxj7fy4wfqz1w9lcaj";
+        version = "0.20.2";
+        sha256 = "05kqqvjj7yd48w289cwmah9hkq4mbi9kv9k49vhhx18nhgl8vrfp";
       };
     };
     gruntfuggly.todo-tree = buildVscodeMarketplaceExtension {
