@@ -1,6 +1,7 @@
 arrterian.nix-env-selector
 Bauke.horizon-vscode
 bbenoist.Nix
+bradlc.vscode-tailwindcss
 bungcip.better-toml
 dbaeumer.vscode-eslint
 eamodio.gitlens

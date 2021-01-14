@@ -29,6 +29,14 @@ in
         sha256 = "0zd0n9f5z1f0ckzfjr38xw2zzmcxg1gjrava7yahg5cvdcw6l35b";
       };
     };
+    bradlc.vscode-tailwindcss = buildVscodeMarketplaceExtension {
+      mktplcRef = {
+        name = "vscode-tailwindcss";
+        publisher = "bradlc";
+        version = "0.5.6";
+        sha256 = "0hvga74mddvncq2ngzx9zz1f7al45vjx63968sw655r50za9jaml";
+      };
+    };
     bungcip.better-toml = buildVscodeMarketplaceExtension {
       mktplcRef = {
         name = "better-toml";
