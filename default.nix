@@ -93,5 +93,13 @@ in
         sha256 = "02fhmmi08335ky4v5ayf4ra0gzrkrpjghrjpd77bxjikjh98wkdz";
       };
     };
+    znck.vue-language-features = buildVscodeMarketplaceExtension {
+      mktplcRef = {
+        name = "vue-language-features";
+        publisher = "znck";
+        version = "0.5.0";
+        sha256 = "1ymj4y5n1g6b8iwmm4h954xc6ncwk43iqw0rrf549fh61549sbxm";
+      };
+    };
   };
 }

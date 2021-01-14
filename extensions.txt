@@ -9,3 +9,4 @@ gruntfuggly.todo-tree
 matklad.rust-analyzer
 naumovs.color-highlight
 octref.vetur
+znck.vue-language-features
