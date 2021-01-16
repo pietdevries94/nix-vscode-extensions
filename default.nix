@@ -69,6 +69,14 @@ in
         sha256 = "05kqqvjj7yd48w289cwmah9hkq4mbi9kv9k49vhhx18nhgl8vrfp";
       };
     };
+    graphql.vscode-graphql = buildVscodeMarketplaceExtension {
+      mktplcRef = {
+        name = "vscode-graphql";
+        publisher = "graphql";
+        version = "0.3.13";
+        sha256 = "0kk3x1qv2w34zf94qnmmdl74pf47vpphkz6aaafqhlfha5yiwc96";
+      };
+    };
     gruntfuggly.todo-tree = buildVscodeMarketplaceExtension {
       mktplcRef = {
         name = "todo-tree";

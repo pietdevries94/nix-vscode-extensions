@@ -6,6 +6,7 @@ bungcip.better-toml
 dbaeumer.vscode-eslint
 eamodio.gitlens
 golang.go
+graphql.vscode-graphql
 gruntfuggly.todo-tree
 matklad.rust-analyzer
 naumovs.color-highlight
