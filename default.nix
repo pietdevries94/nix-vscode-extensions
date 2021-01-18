@@ -113,8 +113,8 @@ in
       mktplcRef = {
         name = "vue-language-features";
         publisher = "znck";
-        version = "0.5.0";
-        sha256 = "1ymj4y5n1g6b8iwmm4h954xc6ncwk43iqw0rrf549fh61549sbxm";
+        version = "0.6.0";
+        sha256 = "1jpvin81mp9lj3v4azi164p0hpanjall4y2xqj3ra5m2imzbb5xg";
       };
     };
   };
