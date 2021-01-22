@@ -65,8 +65,8 @@ in
       mktplcRef = {
         name = "go";
         publisher = "golang";
-        version = "0.21.0";
-        sha256 = "14v43g00bsv580f8kimkfnqavxaxpc4zhprp8sm9x3ny6y637qi9";
+        version = "0.21.1";
+        sha256 = "1914kicadrqp653mcd4h26n7g4fzlzw55r36ws3r0lf8rzcb8sva";
       };
     };
     graphql.vscode-graphql = buildVscodeMarketplaceExtension {
@@ -81,8 +81,8 @@ in
       mktplcRef = {
         name = "todo-tree";
         publisher = "gruntfuggly";
-        version = "0.0.195";
-        sha256 = "1ylycdr908sdlxzbwfgf7fygx6x8rw43wrlpagl7s1g93jwmlkra";
+        version = "0.0.196";
+        sha256 = "1l4f290018f2p76q6hn2b2injps6wz65as7dm537wrsvsivyg2qz";
       };
     };
     matklad.rust-analyzer = buildVscodeMarketplaceExtension {
@@ -105,8 +105,8 @@ in
       mktplcRef = {
         name = "vetur";
         publisher = "octref";
-        version = "0.31.3";
-        sha256 = "02fhmmi08335ky4v5ayf4ra0gzrkrpjghrjpd77bxjikjh98wkdz";
+        version = "0.32.0";
+        sha256 = "0wk6y6r529jwbk6bq25zd1bdapw55f6x3mk3vpm084d02p2cs2gl";
       };
     };
     znck.vue-language-features = buildVscodeMarketplaceExtension {
