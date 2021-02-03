@@ -57,8 +57,8 @@ in
       mktplcRef = {
         name = "gitlens";
         publisher = "eamodio";
-        version = "11.1.3";
-        sha256 = "1x9bkf9mb56l84n36g3jmp3hyfbyi8vkm2d4wbabavgq6gg618l6";
+        version = "11.2.0";
+        sha256 = "0yh38a7imjj9z75xb14cs5k58gkqhyihma7jczzvrk69i646f8ib";
       };
     };
     golang.go = buildVscodeMarketplaceExtension {
