@@ -61,6 +61,14 @@ in
         sha256 = "1ba72sr7mv9c0xzlqlxbv1x8p6jjvdjkkf7dn174v8b8345164v6";
       };
     };
+    editorconfig.editorconfig = buildVscodeMarketplaceExtension {
+      mktplcRef = {
+        name = "editorconfig";
+        publisher = "editorconfig";
+        version = "0.16.4";
+        sha256 = "0fa4h9hk1xq6j3zfxvf483sbb4bd17fjl5cdm3rll7z9kaigdqwg";
+      };
+    };
     golang.go = buildVscodeMarketplaceExtension {
       mktplcRef = {
         name = "go";

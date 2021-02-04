@@ -5,6 +5,7 @@ bradlc.vscode-tailwindcss
 bungcip.better-toml
 dbaeumer.vscode-eslint
 eamodio.gitlens
+editorconfig.editorconfig
 golang.go
 graphql.vscode-graphql
 gruntfuggly.todo-tree
