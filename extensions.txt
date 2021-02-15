@@ -6,6 +6,7 @@ bungcip.better-toml
 dbaeumer.vscode-eslint
 eamodio.gitlens
 editorconfig.editorconfig
+fooxly.themeswitch
 golang.go
 graphql.vscode-graphql
 gruntfuggly.todo-tree
