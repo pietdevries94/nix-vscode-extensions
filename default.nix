@@ -9,8 +9,8 @@ in
       mktplcRef = {
         name = "nix-env-selector";
         publisher = "arrterian";
-        version = "1.0.1";
-        sha256 = "0kvfp2hlrda91n3digbpdhqr84gdcshxqnybfqbkq2yzjbidmyjg";
+        version = "1.0.2";
+        sha256 = "16pz637gx2kdm438irzx43jzjajhpjpzhgr15znkvaizy61s7vx1";
       };
     };
     Bauke.horizon-vscode = buildVscodeMarketplaceExtension {
@@ -105,8 +105,8 @@ in
       mktplcRef = {
         name = "rust-analyzer";
         publisher = "matklad";
-        version = "0.2.481";
-        sha256 = "1zb8l3x26nap0jm79c899njyyc7c0z91sag9qp3x24gvb0gn5myq";
+        version = "0.2.489";
+        sha256 = "0q9bahp8dj55x55map70c9diqnia3i34z7zzdb57bxavrdwivff5";
       };
     };
     naumovs.color-highlight = buildVscodeMarketplaceExtension {
