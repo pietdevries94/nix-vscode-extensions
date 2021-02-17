@@ -5,6 +5,7 @@ bradlc.vscode-tailwindcss
 bungcip.better-toml
 dbaeumer.vscode-eslint
 eamodio.gitlens
+emeraldwalk.runonsave
 editorconfig.editorconfig
 fooxly.themeswitch
 golang.go

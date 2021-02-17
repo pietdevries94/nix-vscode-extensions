@@ -61,6 +61,14 @@ in
         sha256 = "1ba72sr7mv9c0xzlqlxbv1x8p6jjvdjkkf7dn174v8b8345164v6";
       };
     };
+    emeraldwalk.runonsave = buildVscodeMarketplaceExtension {
+      mktplcRef = {
+        name = "runonsave";
+        publisher = "emeraldwalk";
+        version = "0.2.0";
+        sha256 = "1n7pblhbkkmznq9nanybfkwskibvfi4a11l9wvdpqd1765nvvycw";
+      };
+    };
     editorconfig.editorconfig = buildVscodeMarketplaceExtension {
       mktplcRef = {
         name = "editorconfig";
