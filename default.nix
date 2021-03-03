@@ -129,8 +129,8 @@ in
       mktplcRef = {
         name = "vetur";
         publisher = "octref";
-        version = "0.32.0";
-        sha256 = "0wk6y6r529jwbk6bq25zd1bdapw55f6x3mk3vpm084d02p2cs2gl";
+        version = "0.33.0";
+        sha256 = "0irzx04ifh9wjmzprm5rfs3kl241cpcxxav69cvkiv8m74fzx2aj";
       };
     };
     znck.vue-language-features = buildVscodeMarketplaceExtension {
