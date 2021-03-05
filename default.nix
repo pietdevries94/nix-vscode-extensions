@@ -105,8 +105,8 @@ in
       mktplcRef = {
         name = "todo-tree";
         publisher = "gruntfuggly";
-        version = "0.0.199";
-        sha256 = "0qlh0vm6qji61pkh79wrmgx6kzdf0y6ks0y27dndka4yc0g3ijbh";
+        version = "0.0.201";
+        sha256 = "1hjck1r2byc45rp28gn15wbmcrl1wjng7kn5lyhr6mgjjwqh5pa8";
       };
     };
     matklad.rust-analyzer = buildVscodeMarketplaceExtension {
