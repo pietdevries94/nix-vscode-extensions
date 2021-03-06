@@ -57,8 +57,8 @@ in
       mktplcRef = {
         name = "gitlens";
         publisher = "eamodio";
-        version = "11.2.1";
-        sha256 = "1ba72sr7mv9c0xzlqlxbv1x8p6jjvdjkkf7dn174v8b8345164v6";
+        version = "11.3.0";
+        sha256 = "0py8c5h3pp99r0q9x2dgh1ryp05dbndyc5ipp999z3x1xvwnfrlv";
       };
     };
     emeraldwalk.runonsave = buildVscodeMarketplaceExtension {
@@ -89,8 +89,8 @@ in
       mktplcRef = {
         name = "go";
         publisher = "golang";
-        version = "0.22.1";
-        sha256 = "1gbb13gmif2zzia49153czk3ib6lgwg37gx8gzs4773m9x5hmb2l";
+        version = "0.23.0";
+        sha256 = "0ngf0cx582m51arnna5z59sjrhh7vz9ic39gh57b8m94mr8ld77p";
       };
     };
     graphql.vscode-graphql = buildVscodeMarketplaceExtension {
