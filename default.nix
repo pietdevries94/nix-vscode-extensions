@@ -9,8 +9,8 @@ in
       mktplcRef = {
         name = "nix-env-selector";
         publisher = "arrterian";
-        version = "1.0.2";
-        sha256 = "16pz637gx2kdm438irzx43jzjajhpjpzhgr15znkvaizy61s7vx1";
+        version = "1.0.3";
+        sha256 = "1365kxgl1djrsmzf38ji620g1sy459n9qj9q7wbiizml1ii9jh0h";
       };
     };
     Bauke.horizon-vscode = buildVscodeMarketplaceExtension {
