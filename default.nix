@@ -49,8 +49,8 @@ in
       mktplcRef = {
         name = "vscode-eslint";
         publisher = "dbaeumer";
-        version = "2.1.16";
-        sha256 = "11ncminw8gv2z6hgj4ik404fvm021ga29048mlpb1qqzqm5slzvc";
+        version = "2.1.17";
+        sha256 = "1c895irqj99kkhikd2f7hfx6i7ml6vhdy6rlbsbhmsfiw0vhqzkb";
       };
     };
     eamodio.gitlens = buildVscodeMarketplaceExtension {
@@ -89,8 +89,8 @@ in
       mktplcRef = {
         name = "go";
         publisher = "golang";
-        version = "0.23.0";
-        sha256 = "0ngf0cx582m51arnna5z59sjrhh7vz9ic39gh57b8m94mr8ld77p";
+        version = "0.23.1";
+        sha256 = "1adk14pqk3j9ylrfbpn86x6j0g7l48jsdbi62xclndl160drcqgr";
       };
     };
     graphql.vscode-graphql = buildVscodeMarketplaceExtension {
@@ -105,8 +105,8 @@ in
       mktplcRef = {
         name = "todo-tree";
         publisher = "gruntfuggly";
-        version = "0.0.203";
-        sha256 = "0akq39n3mxw4yhm1j3sab28b88688jlgisjn3yyy2zg0cqpjic8l";
+        version = "0.0.204";
+        sha256 = "0gqgbvr7fs5znxyi1sjd40x14ppwswgnb3v9a7fkd9ap02ak831r";
       };
     };
     matklad.rust-analyzer = buildVscodeMarketplaceExtension {
