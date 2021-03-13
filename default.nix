@@ -9,8 +9,8 @@ in
       mktplcRef = {
         name = "nix-env-selector";
         publisher = "arrterian";
-        version = "1.0.4";
-        sha256 = "0dm0pmzc5kbkw4kgmpyla8w78wn3cngd5g16d94c1svc7wdgrk5a";
+        version = "1.0.6";
+        sha256 = "19k60nrhimwf61ybnn1qqb0n0zh2wdr8pp1x5bla9r76hz5srqdl";
       };
     };
     Bauke.horizon-vscode = buildVscodeMarketplaceExtension {
@@ -89,8 +89,8 @@ in
       mktplcRef = {
         name = "go";
         publisher = "golang";
-        version = "0.23.1";
-        sha256 = "1adk14pqk3j9ylrfbpn86x6j0g7l48jsdbi62xclndl160drcqgr";
+        version = "0.23.2";
+        sha256 = "0l8j61idf8hhmjyc0wr6viiyrbw3mjl0makq0ijwcr6lnz72r08b";
       };
     };
     graphql.vscode-graphql = buildVscodeMarketplaceExtension {
