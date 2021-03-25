@@ -89,8 +89,8 @@ in
       mktplcRef = {
         name = "go";
         publisher = "golang";
-        version = "0.23.2";
-        sha256 = "0l8j61idf8hhmjyc0wr6viiyrbw3mjl0makq0ijwcr6lnz72r08b";
+        version = "0.23.3";
+        sha256 = "0c8krqjjxg6l0a0ghqr3w32mn44jhnmx9dr0pmjv219makfyd9rj";
       };
     };
     graphql.vscode-graphql = buildVscodeMarketplaceExtension {
