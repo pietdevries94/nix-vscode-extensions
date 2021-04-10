@@ -57,8 +57,8 @@ in
       mktplcRef = {
         name = "gitlens";
         publisher = "eamodio";
-        version = "11.3.0";
-        sha256 = "0py8c5h3pp99r0q9x2dgh1ryp05dbndyc5ipp999z3x1xvwnfrlv";
+        version = "11.4.0";
+        sha256 = "05gbsx8mvppwnng0qk9pl3kbmk9krkfqv1qljk7xxr837aip3vw2";
       };
     };
     emeraldwalk.runonsave = buildVscodeMarketplaceExtension {
@@ -105,8 +105,8 @@ in
       mktplcRef = {
         name = "todo-tree";
         publisher = "gruntfuggly";
-        version = "0.0.210";
-        sha256 = "0vg62vhl2h0x0dq6gsl6kqsh4jxyd8iq2grrfib35njk90jkhlg7";
+        version = "0.0.211";
+        sha256 = "1di2v1bhlhl1yi9rrmbq0r9gypiydl8xvj24yw64vsnkqs9yxbp3";
       };
     };
     matklad.rust-analyzer = buildVscodeMarketplaceExtension {
