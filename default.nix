@@ -57,8 +57,8 @@ in
       mktplcRef = {
         name = "gitlens";
         publisher = "eamodio";
-        version = "11.4.0";
-        sha256 = "05gbsx8mvppwnng0qk9pl3kbmk9krkfqv1qljk7xxr837aip3vw2";
+        version = "11.4.1";
+        sha256 = "1gqkcv210h595rxwqsgwywjg2c2xnxdjlpqmgg091hd36g7jhcrs";
       };
     };
     emeraldwalk.runonsave = buildVscodeMarketplaceExtension {
