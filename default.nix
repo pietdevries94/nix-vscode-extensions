@@ -89,8 +89,8 @@ in
       mktplcRef = {
         name = "go";
         publisher = "golang";
-        version = "0.24.1";
-        sha256 = "094qgyq3w9apmiicc0192z7s8wsz404rmpqjzrrfb3prrp201y1b";
+        version = "0.24.2";
+        sha256 = "0ii3f4gql5j1xjcjbhsgi6bckp8d85akjzmw3fgs283g6kfjfzj7";
       };
     };
     graphql.vscode-graphql = buildVscodeMarketplaceExtension {
@@ -113,8 +113,8 @@ in
       mktplcRef = {
         name = "rust-analyzer";
         publisher = "matklad";
-        version = "0.2.563";
-        sha256 = "1fm64h1mzwara90h7m00y6lcsmv8jdqc91piafqsnqpfwib37scm";
+        version = "0.2.565";
+        sha256 = "01s1a9vky8d6krnw7s4k5wjvxji4zg691xlv79p9gm78bg050jdz";
       };
     };
     naumovs.color-highlight = buildVscodeMarketplaceExtension {
