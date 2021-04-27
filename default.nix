@@ -105,16 +105,16 @@ in
       mktplcRef = {
         name = "todo-tree";
         publisher = "gruntfuggly";
-        version = "0.0.211";
-        sha256 = "1di2v1bhlhl1yi9rrmbq0r9gypiydl8xvj24yw64vsnkqs9yxbp3";
+        version = "0.0.212";
+        sha256 = "0v9kb79jqckvd7dc4kzj1ys4bpc6cm29gky09v38qnz8nx6s15ix";
       };
     };
     matklad.rust-analyzer = buildVscodeMarketplaceExtension {
       mktplcRef = {
         name = "rust-analyzer";
         publisher = "matklad";
-        version = "0.2.565";
-        sha256 = "01s1a9vky8d6krnw7s4k5wjvxji4zg691xlv79p9gm78bg050jdz";
+        version = "0.2.574";
+        sha256 = "072z7qq51cc11qqp4msj5700zkv9b0qw7bc24g0b8r07lkhjnczm";
       };
     };
     naumovs.color-highlight = buildVscodeMarketplaceExtension {
