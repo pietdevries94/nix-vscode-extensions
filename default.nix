@@ -33,8 +33,8 @@ in
       mktplcRef = {
         name = "vscode-tailwindcss";
         publisher = "bradlc";
-        version = "0.6.0";
-        sha256 = "1s23axhkzxyd2knj1axwbxdgzp385nwwqqli1q3llz4q9d186i73";
+        version = "0.6.1";
+        sha256 = "0hcjmlznwfzppp88g7i7d66476cb0x5cy9xhnkbvianjiy4a4v9a";
       };
     };
     bungcip.better-toml = buildVscodeMarketplaceExtension {
