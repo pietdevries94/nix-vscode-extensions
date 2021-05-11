@@ -33,8 +33,8 @@ in
       mktplcRef = {
         name = "vscode-tailwindcss";
         publisher = "bradlc";
-        version = "0.6.2";
-        sha256 = "1aqm64a1g57phnai18mwfhggf3h59r1ral4rcrgxr9hnm7sigpx5";
+        version = "0.6.3";
+        sha256 = "1hllnbwla009bz3xvnx32zggw6cc2mx7b9wwzgv5vy3sn13iws73";
       };
     };
     bungcip.better-toml = buildVscodeMarketplaceExtension {
@@ -113,8 +113,8 @@ in
       mktplcRef = {
         name = "rust-analyzer";
         publisher = "matklad";
-        version = "0.2.583";
-        sha256 = "0abz4hcndjr3yvacv1nr18zsblrr7vy3dhsi3dida79sqzvl29qy";
+        version = "0.2.591";
+        sha256 = "1mwnk446va1adw9mv3lfbxxpm2aksid1hl7bdi1xiphqippv3a78";
       };
     };
     naumovs.color-highlight = buildVscodeMarketplaceExtension {
