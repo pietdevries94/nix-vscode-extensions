@@ -81,8 +81,8 @@ in
       mktplcRef = {
         name = "themeswitch";
         publisher = "fooxly";
-        version = "1.0.2";
-        sha256 = "15xi3hnyywnib2ljvqw907dj2jjbyn1b5w1cl01sdmnpa95754lk";
+        version = "1.0.4";
+        sha256 = "17bmryjc0ifl7mmjn58ig59h60z3mgpn3h2xr5jz74zix6chdimn";
       };
     };
     golang.go = buildVscodeMarketplaceExtension {
