@@ -33,8 +33,8 @@ in
       mktplcRef = {
         name = "vscode-tailwindcss";
         publisher = "bradlc";
-        version = "0.6.6";
-        sha256 = "1l55kl3kd747gyjd9g4q268k8g4kinxgrsz3kp0ya547l9qpw5q9";
+        version = "0.6.7";
+        sha256 = "0a7430b6hsl2w2im0b99hmrjv4gwjc5xzpaag8rahvgyvdyxj2cd";
       };
     };
     bungcip.better-toml = buildVscodeMarketplaceExtension {
@@ -129,8 +129,8 @@ in
       mktplcRef = {
         name = "vetur";
         publisher = "octref";
-        version = "0.33.1";
-        sha256 = "1iq2h87j7dr4vf9zgzihd5q4d95grc0iirz68az5dnvy19nvfv57";
+        version = "0.34.1";
+        sha256 = "09w3bik1mxs7qac67wgrc58vl98ham3syrn2anycpwd7135wlpby";
       };
     };
     znck.vue-language-features = buildVscodeMarketplaceExtension {
