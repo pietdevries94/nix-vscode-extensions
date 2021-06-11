@@ -49,8 +49,8 @@ in
       mktplcRef = {
         name = "vscode-eslint";
         publisher = "dbaeumer";
-        version = "2.1.20";
-        sha256 = "0xk8pxv5jy89fshda845iswryvmgv0yxr11xsdbvd9zdczqhg7wc";
+        version = "2.1.22";
+        sha256 = "1h5j4qldvy8md5qsxmyi0v5f8zjz9w28mzlgkpdhx46hcpp6467i";
       };
     };
     eamodio.gitlens = buildVscodeMarketplaceExtension {
@@ -81,8 +81,8 @@ in
       mktplcRef = {
         name = "themeswitch";
         publisher = "fooxly";
-        version = "1.0.4";
-        sha256 = "17bmryjc0ifl7mmjn58ig59h60z3mgpn3h2xr5jz74zix6chdimn";
+        version = "1.0.5";
+        sha256 = "0sgq1l61q7bkrdsz5fpskzc86ln4q97z7s5vxkrzy9xgxm62xjfj";
       };
     };
     golang.go = buildVscodeMarketplaceExtension {
