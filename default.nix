@@ -33,8 +33,8 @@ in
       mktplcRef = {
         name = "vscode-tailwindcss";
         publisher = "bradlc";
-        version = "0.6.8";
-        sha256 = "1pz6dmfqqrs3qdkqzbging1565w4rf6kad7r0bwnna174ym77yyz";
+        version = "0.6.9";
+        sha256 = "16gif76bc4gaacbimddfxnbgmpsb97fc74six2bn92g09gz8nv1a";
       };
     };
     bungcip.better-toml = buildVscodeMarketplaceExtension {
@@ -57,8 +57,8 @@ in
       mktplcRef = {
         name = "gitlens";
         publisher = "eamodio";
-        version = "11.4.1";
-        sha256 = "1gqkcv210h595rxwqsgwywjg2c2xnxdjlpqmgg091hd36g7jhcrs";
+        version = "11.5.1";
+        sha256 = "0wy23fnd21jfqw88cyspzf09yvz2bpnlxniz4bc61n4pqm7xxki1";
       };
     };
     emeraldwalk.runonsave = buildVscodeMarketplaceExtension {
@@ -113,8 +113,8 @@ in
       mktplcRef = {
         name = "rust-analyzer";
         publisher = "matklad";
-        version = "0.2.629";
-        sha256 = "1i0mn6dlflf1wrdnxw8gw91np6afmb05qq7v3cigk2cn0hh1pgsl";
+        version = "0.2.637";
+        sha256 = "1bi9xklbls0jpccfg9bh3vk5s7v8f3a6f331b4hw0mpiv72ls5fr";
       };
     };
     naumovs.color-highlight = buildVscodeMarketplaceExtension {
