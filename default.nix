@@ -133,6 +133,22 @@ in
         sha256 = "09w3bik1mxs7qac67wgrc58vl98ham3syrn2anycpwd7135wlpby";
       };
     };
+    svelte.svelte-vscode = buildVscodeMarketplaceExtension {
+      mktplcRef = {
+        name = "svelte-vscode";
+        publisher = "svelte";
+        version = "105.2.2";
+        sha256 = "13lzm3srmg84xvhps5nsbqlzq077li670krwr2f9njc2b79ngwl6";
+      };
+    };
+    voorjaar.windicss-intellisense = buildVscodeMarketplaceExtension {
+      mktplcRef = {
+        name = "windicss-intellisense";
+        publisher = "voorjaar";
+        version = "0.19.0";
+        sha256 = "0zj0l6hzxbhawwd95s009wipxjxchh3b3vyradx0cn5qdkys6iyq";
+      };
+    };
     znck.vue-language-features = buildVscodeMarketplaceExtension {
       mktplcRef = {
         name = "vue-language-features";
