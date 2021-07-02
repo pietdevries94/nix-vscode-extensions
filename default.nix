@@ -145,8 +145,8 @@ in
       mktplcRef = {
         name = "windicss-intellisense";
         publisher = "voorjaar";
-        version = "0.19.0";
-        sha256 = "0zj0l6hzxbhawwd95s009wipxjxchh3b3vyradx0cn5qdkys6iyq";
+        version = "0.19.1";
+        sha256 = "0abjq0jwqhzqij13z04fa7rm7n0kdw3867i5jmaphkrqx7aih451";
       };
     };
     znck.vue-language-features = buildVscodeMarketplaceExtension {
