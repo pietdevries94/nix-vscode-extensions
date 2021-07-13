@@ -57,8 +57,8 @@ in
       mktplcRef = {
         name = "gitlens";
         publisher = "eamodio";
-        version = "11.5.1";
-        sha256 = "0wy23fnd21jfqw88cyspzf09yvz2bpnlxniz4bc61n4pqm7xxki1";
+        version = "11.6.0";
+        sha256 = "0lhrw24ilncdczh90jnjx71ld3b626xpk8b9qmwgzzhby89qs417";
       };
     };
     emeraldwalk.runonsave = buildVscodeMarketplaceExtension {
@@ -83,6 +83,14 @@ in
         publisher = "fooxly";
         version = "1.0.5";
         sha256 = "0sgq1l61q7bkrdsz5fpskzc86ln4q97z7s5vxkrzy9xgxm62xjfj";
+      };
+    };
+    GitLab.gitlab-workflow = buildVscodeMarketplaceExtension {
+      mktplcRef = {
+        name = "gitlab-workflow";
+        publisher = "GitLab";
+        version = "3.26.0";
+        sha256 = "14z8bz2clr995ig9x57dgs3rq3x7cfcsy8cwp4hgbr7iyg36gdrf";
       };
     };
     golang.go = buildVscodeMarketplaceExtension {

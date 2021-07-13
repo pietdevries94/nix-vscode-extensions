@@ -8,6 +8,7 @@ eamodio.gitlens
 emeraldwalk.runonsave
 editorconfig.editorconfig
 fooxly.themeswitch
+GitLab.gitlab-workflow
 golang.go
 graphql.vscode-graphql
 gruntfuggly.todo-tree
