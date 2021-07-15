@@ -17,4 +17,5 @@ naumovs.color-highlight
 octref.vetur
 svelte.svelte-vscode
 voorjaar.windicss-intellisense
+vscode-icons-team.vscode-icons
 znck.vue-language-features

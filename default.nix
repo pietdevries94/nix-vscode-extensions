@@ -129,8 +129,8 @@ in
       mktplcRef = {
         name = "color-highlight";
         publisher = "naumovs";
-        version = "2.3.0";
-        sha256 = "1syzf43ws343z911fnhrlbzbx70gdn930q67yqkf6g0mj8lf2za2";
+        version = "2.4.0";
+        sha256 = "118y2wzmxxm9y4n96gld4nqlm5dglac3vp4fm96mipdjj2ll6n7s";
       };
     };
     octref.vetur = buildVscodeMarketplaceExtension {
@@ -155,6 +155,14 @@ in
         publisher = "voorjaar";
         version = "0.19.1";
         sha256 = "0abjq0jwqhzqij13z04fa7rm7n0kdw3867i5jmaphkrqx7aih451";
+      };
+    };
+    vscode-icons-team.vscode-icons = buildVscodeMarketplaceExtension {
+      mktplcRef = {
+        name = "vscode-icons";
+        publisher = "vscode-icons-team";
+        version = "11.5.0";
+        sha256 = "0l7vmi5d1kf5f02d1zzvx29v4qvwxwlfc4bn1lf0nz7kl6aa4j5q";
       };
     };
     znck.vue-language-features = buildVscodeMarketplaceExtension {
