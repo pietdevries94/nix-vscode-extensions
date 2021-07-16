@@ -3,11 +3,13 @@ Bauke.horizon-vscode
 bbenoist.Nix
 bradlc.vscode-tailwindcss
 bungcip.better-toml
+cschleiden.vscode-github-actions
 dbaeumer.vscode-eslint
 eamodio.gitlens
 emeraldwalk.runonsave
 editorconfig.editorconfig
 fooxly.themeswitch
+github.vscode-pull-request-github
 GitLab.gitlab-workflow
 golang.go
 graphql.vscode-graphql

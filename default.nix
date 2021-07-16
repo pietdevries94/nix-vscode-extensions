@@ -45,6 +45,14 @@ in
         sha256 = "08lhzhrn6p0xwi0hcyp6lj9bvpfj87vr99klzsiy8ji7621dzql3";
       };
     };
+    cschleiden.vscode-github-actions = buildVscodeMarketplaceExtension {
+      mktplcRef = {
+        name = "vscode-github-actions";
+        publisher = "cschleiden";
+        version = "0.18.0";
+        sha256 = "0ylpm825xpzspwiwa0biz0fmmkq1n249jbrcg11bi8d8l3x4vf3a";
+      };
+    };
     dbaeumer.vscode-eslint = buildVscodeMarketplaceExtension {
       mktplcRef = {
         name = "vscode-eslint";
@@ -83,6 +91,14 @@ in
         publisher = "fooxly";
         version = "1.0.5";
         sha256 = "0sgq1l61q7bkrdsz5fpskzc86ln4q97z7s5vxkrzy9xgxm62xjfj";
+      };
+    };
+    github.vscode-pull-request-github = buildVscodeMarketplaceExtension {
+      mktplcRef = {
+        name = "vscode-pull-request-github";
+        publisher = "github";
+        version = "0.28.0";
+        sha256 = "0w8aa68xzzl5vw0blnfr6cx14qcifjmwiy5y19cnx71r59qlaf2i";
       };
     };
     GitLab.gitlab-workflow = buildVscodeMarketplaceExtension {
