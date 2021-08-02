@@ -177,8 +177,8 @@ in
       mktplcRef = {
         name = "vscode-icons";
         publisher = "vscode-icons-team";
-        version = "11.5.0";
-        sha256 = "0l7vmi5d1kf5f02d1zzvx29v4qvwxwlfc4bn1lf0nz7kl6aa4j5q";
+        version = "11.6.0";
+        sha256 = "07mp6q7xy9r53b1bh8gaw6kz64m4bzyxzm095105vv1p5l78b3lf";
       };
     };
     znck.vue-language-features = buildVscodeMarketplaceExtension {
