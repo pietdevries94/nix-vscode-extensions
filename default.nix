@@ -105,8 +105,8 @@ in
       mktplcRef = {
         name = "gitlab-workflow";
         publisher = "GitLab";
-        version = "3.27.0";
-        sha256 = "09saynrwa5ncfi8cv13lp4djpz8chpwln4nwhj76bdddyaxrv58v";
+        version = "3.27.1";
+        sha256 = "0zinr54zngivk27diaszwqzx78jwrgxs86v59w0z6bkhjcpw67w7";
       };
     };
     golang.go = buildVscodeMarketplaceExtension {
@@ -137,8 +137,8 @@ in
       mktplcRef = {
         name = "rust-analyzer";
         publisher = "matklad";
-        version = "0.2.686";
-        sha256 = "17sq6df1a6c0sy4p8q9ggkfsgj681rwv06fvv03l104v9y2kybyk";
+        version = "0.2.694";
+        sha256 = "10z247zcx4338ddakd3pnnijn0qh9d52sv0d154dkjwrn9shq5iz";
       };
     };
     naumovs.color-highlight = buildVscodeMarketplaceExtension {
@@ -161,16 +161,16 @@ in
       mktplcRef = {
         name = "svelte-vscode";
         publisher = "svelte";
-        version = "105.3.1";
-        sha256 = "1w77n0n6kwxv6b0sxbm5jb4w2qshlrzyznwpz07kc4mr96iqn6jh";
+        version = "105.3.3";
+        sha256 = "09kb14hw40k3hxfkq4ghv7ff2yi80dy22kpp3dcl205ab425yzfk";
       };
     };
     voorjaar.windicss-intellisense = buildVscodeMarketplaceExtension {
       mktplcRef = {
         name = "windicss-intellisense";
         publisher = "voorjaar";
-        version = "0.19.2";
-        sha256 = "1q754xgidz4xgbamyc1bi1qlfx2mfn80ay6djq67ngz31734dgs6";
+        version = "0.19.3";
+        sha256 = "1cqdfzab187i8c3lyq5xi4yycxgmx08fh8k2qs8lmha280jwhfac";
       };
     };
     vscode-icons-team.vscode-icons = buildVscodeMarketplaceExtension {
