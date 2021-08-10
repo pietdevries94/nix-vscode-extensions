@@ -6,14 +6,15 @@ bungcip.better-toml
 cschleiden.vscode-github-actions
 dbaeumer.vscode-eslint
 eamodio.gitlens
-emeraldwalk.runonsave
 editorconfig.editorconfig
+emeraldwalk.runonsave
 fooxly.themeswitch
 github.vscode-pull-request-github
 GitLab.gitlab-workflow
 golang.go
 graphql.vscode-graphql
 gruntfuggly.todo-tree
+jnoortheen.nix-ide
 matklad.rust-analyzer
 naumovs.color-highlight
 octref.vetur

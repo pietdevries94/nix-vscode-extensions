@@ -69,20 +69,20 @@ in
         sha256 = "0lhrw24ilncdczh90jnjx71ld3b626xpk8b9qmwgzzhby89qs417";
       };
     };
-    emeraldwalk.runonsave = buildVscodeMarketplaceExtension {
-      mktplcRef = {
-        name = "runonsave";
-        publisher = "emeraldwalk";
-        version = "0.2.0";
-        sha256 = "1n7pblhbkkmznq9nanybfkwskibvfi4a11l9wvdpqd1765nvvycw";
-      };
-    };
     editorconfig.editorconfig = buildVscodeMarketplaceExtension {
       mktplcRef = {
         name = "editorconfig";
         publisher = "editorconfig";
         version = "0.16.4";
         sha256 = "0fa4h9hk1xq6j3zfxvf483sbb4bd17fjl5cdm3rll7z9kaigdqwg";
+      };
+    };
+    emeraldwalk.runonsave = buildVscodeMarketplaceExtension {
+      mktplcRef = {
+        name = "runonsave";
+        publisher = "emeraldwalk";
+        version = "0.2.0";
+        sha256 = "1n7pblhbkkmznq9nanybfkwskibvfi4a11l9wvdpqd1765nvvycw";
       };
     };
     fooxly.themeswitch = buildVscodeMarketplaceExtension {
@@ -131,6 +131,14 @@ in
         publisher = "gruntfuggly";
         version = "0.0.213";
         sha256 = "0fj7vvaqdldhbzm9dqh2plqlhg34jv5khd690xd87h418sv8rk95";
+      };
+    };
+    jnoortheen.nix-ide = buildVscodeMarketplaceExtension {
+      mktplcRef = {
+        name = "nix-ide";
+        publisher = "jnoortheen";
+        version = "0.1.12";
+        sha256 = "1wkc5mvxv7snrpd0py6x83aci05b9fb9v4w9pl9d1hyaszqbfnif";
       };
     };
     matklad.rust-analyzer = buildVscodeMarketplaceExtension {
