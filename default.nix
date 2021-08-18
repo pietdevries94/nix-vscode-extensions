@@ -49,8 +49,8 @@ in
       mktplcRef = {
         name = "vscode-github-actions";
         publisher = "cschleiden";
-        version = "0.20.3";
-        sha256 = "1b3nmdbnm474j8fhimm220gdd8nrypw138xm787y6lhirh92pcgf";
+        version = "0.20.6";
+        sha256 = "1i45ma46fn93c09bbrbsq05dp2zc5ld9244037qkflm98fcf5h3h";
       };
     };
     dbaeumer.vscode-eslint = buildVscodeMarketplaceExtension {
