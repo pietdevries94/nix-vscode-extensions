@@ -49,8 +49,8 @@ in
       mktplcRef = {
         name = "vscode-github-actions";
         publisher = "cschleiden";
-        version = "0.20.6";
-        sha256 = "1i45ma46fn93c09bbrbsq05dp2zc5ld9244037qkflm98fcf5h3h";
+        version = "0.21.2";
+        sha256 = "109q1ng4vq3favx0nx4gm3bwzad2kiy5klcdci1ccjpk91wippx8";
       };
     };
     dbaeumer.vscode-eslint = buildVscodeMarketplaceExtension {
@@ -121,8 +121,8 @@ in
       mktplcRef = {
         name = "vscode-graphql";
         publisher = "graphql";
-        version = "0.3.16";
-        sha256 = "120d5v0qpd1hhhz17xp0pgrmri13gdccz1xhcrn9pvbrxvsvp1il";
+        version = "0.3.18";
+        sha256 = "0rnn2rw868pmgpfvldwap2dc6j9dx2sx0jpwbdi8bg6hi3xdlclc";
       };
     };
     gruntfuggly.todo-tree = buildVscodeMarketplaceExtension {
@@ -145,8 +145,8 @@ in
       mktplcRef = {
         name = "rust-analyzer";
         publisher = "matklad";
-        version = "0.2.710";
-        sha256 = "091wkpq65nqc86fnbwy9glpskvhl4w07k7zjy0jhry78qjlaizb3";
+        version = "0.2.718";
+        sha256 = "1w1xmgm8lakdb5z8fjczhapcnva47v951ifb235lcfzgxj8zrz8q";
       };
     };
     naumovs.color-highlight = buildVscodeMarketplaceExtension {
