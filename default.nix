@@ -49,8 +49,8 @@ in
       mktplcRef = {
         name = "vscode-github-actions";
         publisher = "cschleiden";
-        version = "0.21.2";
-        sha256 = "109q1ng4vq3favx0nx4gm3bwzad2kiy5klcdci1ccjpk91wippx8";
+        version = "0.21.3";
+        sha256 = "1m1rpssj2sk98cfsz6ij3dhpcmrzgbapbm6yalg3gcrnhjz7v6k6";
       };
     };
     dbaeumer.vscode-eslint = buildVscodeMarketplaceExtension {
@@ -97,8 +97,8 @@ in
       mktplcRef = {
         name = "vscode-pull-request-github";
         publisher = "github";
-        version = "0.29.2";
-        sha256 = "0fhxdfzk54pmql5awj4v77fg2jag29hsd5bw09r4faw6l1dfd4nq";
+        version = "0.30.0";
+        sha256 = "1wz48p1r8fy6jr28v557v3982igd4mxnnmwhfmd54fcr6p3s2zv4";
       };
     };
     GitLab.gitlab-workflow = buildVscodeMarketplaceExtension {
@@ -113,8 +113,8 @@ in
       mktplcRef = {
         name = "go";
         publisher = "golang";
-        version = "0.27.1";
-        sha256 = "1985bbmnqqlss8h2ma0qgzj2g9xp4za58y2dyiwkh64bzpd6814x";
+        version = "0.27.2";
+        sha256 = "1ayyqm7bpz9axxp9avnr0y7kcqzpl1l538m7szdqgrra3956irna";
       };
     };
     graphql.vscode-graphql = buildVscodeMarketplaceExtension {
