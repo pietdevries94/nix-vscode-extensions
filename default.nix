@@ -177,8 +177,8 @@ in
       mktplcRef = {
         name = "windicss-intellisense";
         publisher = "voorjaar";
-        version = "0.21.1";
-        sha256 = "1l49mvwv1xc87cf024x163g04cma84lagdb2vnrr8cq0pch3dqnm";
+        version = "0.21.3";
+        sha256 = "01806ypri6986qdmk1pwwrnz0958gd96q1whmxglp55g922a3x18";
       };
     };
     vscode-icons-team.vscode-icons = buildVscodeMarketplaceExtension {
