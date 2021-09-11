@@ -105,8 +105,8 @@ in
       mktplcRef = {
         name = "gitlab-workflow";
         publisher = "GitLab";
-        version = "3.29.1";
-        sha256 = "19fqvjlczbaw3n0sq76dkkpvi8im8hc1ivd6225x2jdgwsg2549d";
+        version = "3.30.0";
+        sha256 = "1d5xlrmn5rhvfr8qg6qj58ayqrqsww0q3mnvndp2hlr84xr8bmg0";
       };
     };
     golang.go = buildVscodeMarketplaceExtension {
