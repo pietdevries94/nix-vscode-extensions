@@ -169,8 +169,8 @@ in
       mktplcRef = {
         name = "svelte-vscode";
         publisher = "svelte";
-        version = "105.3.5";
-        sha256 = "1cady1q7frs0pq27zipa3ab9ibnhdydb3svs4q2d8aafb0z5smii";
+        version = "105.4.0";
+        sha256 = "05dr9vrnljkpz88lp2nw49ccb83x18j0nygnwqyzk6m16b2zyz5c";
       };
     };
     voorjaar.windicss-intellisense = buildVscodeMarketplaceExtension {
