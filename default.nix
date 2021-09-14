@@ -145,16 +145,16 @@ in
       mktplcRef = {
         name = "rust-analyzer";
         publisher = "matklad";
-        version = "0.2.735";
-        sha256 = "0qr6aw99r95cdkmrryd5xm8ap3bf3kmisl4iph64ivvs833cmjk9";
+        version = "0.2.743";
+        sha256 = "0j4njspzr2nz2lavy2d9hhxqay88v7g9d74dilnh7dgm8jqi8gny";
       };
     };
     naumovs.color-highlight = buildVscodeMarketplaceExtension {
       mktplcRef = {
         name = "color-highlight";
         publisher = "naumovs";
-        version = "2.4.0";
-        sha256 = "118y2wzmxxm9y4n96gld4nqlm5dglac3vp4fm96mipdjj2ll6n7s";
+        version = "2.5.0";
+        sha256 = "0ri1rylg0r9r1kdc67815gjlq5fwnb26xpyziva6a40brrbh70vm";
       };
     };
     octref.vetur = buildVscodeMarketplaceExtension {
