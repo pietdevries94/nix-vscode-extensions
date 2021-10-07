@@ -57,8 +57,8 @@ in
       mktplcRef = {
         name = "vscode-eslint";
         publisher = "dbaeumer";
-        version = "2.1.25";
-        sha256 = "1g5kyv4y88asfary2ii2qkvb0hrg1n8x76nqykzd6df9g25vnnlw";
+        version = "2.2.1";
+        sha256 = "02qsxrnidw3yf4a3arv5vg18jnjcpqi99ahpkszmz8z0d0gspkd5";
       };
     };
     eamodio.gitlens = buildVscodeMarketplaceExtension {
@@ -105,8 +105,8 @@ in
       mktplcRef = {
         name = "gitlab-workflow";
         publisher = "GitLab";
-        version = "3.31.0";
-        sha256 = "02yv1gqgkkfrv3k5jjcgmzp56506spj3waxyy8hjs4wgx1i2v4dx";
+        version = "3.32.0";
+        sha256 = "1l02zmh1m891y5ag2srdhz7a491jlqsb2i0x7ji34c662dx52rpr";
       };
     };
     golang.go = buildVscodeMarketplaceExtension {
