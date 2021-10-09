@@ -65,8 +65,8 @@ in
       mktplcRef = {
         name = "gitlens";
         publisher = "eamodio";
-        version = "11.6.0";
-        sha256 = "0lhrw24ilncdczh90jnjx71ld3b626xpk8b9qmwgzzhby89qs417";
+        version = "11.6.1";
+        sha256 = "0nghanaxa5db7lxfi4nly45iaps560zkwsfhmzhiiaan0hj0qmcs";
       };
     };
     editorconfig.editorconfig = buildVscodeMarketplaceExtension {
@@ -105,8 +105,8 @@ in
       mktplcRef = {
         name = "gitlab-workflow";
         publisher = "GitLab";
-        version = "3.32.0";
-        sha256 = "1l02zmh1m891y5ag2srdhz7a491jlqsb2i0x7ji34c662dx52rpr";
+        version = "3.33.0";
+        sha256 = "1hp8kxpbizpj2fgi17snpyh391h01myqm5bh20rc618fmyyi187z";
       };
     };
     golang.go = buildVscodeMarketplaceExtension {
@@ -169,8 +169,8 @@ in
       mktplcRef = {
         name = "svelte-vscode";
         publisher = "svelte";
-        version = "105.4.1";
-        sha256 = "12klqmvnf1aqdd7jpkls2ngxp7ybv72b0mdm26fbpf5ry9qy7di7";
+        version = "105.4.2";
+        sha256 = "1scsci1yk4pc6ks0nxvk4dq0hpbsp5bmqkhbfcn2qcbfdzkhlpfb";
       };
     };
     voorjaar.windicss-intellisense = buildVscodeMarketplaceExtension {
