@@ -137,8 +137,8 @@ in
       mktplcRef = {
         name = "nix-ide";
         publisher = "jnoortheen";
-        version = "0.1.16";
-        sha256 = "04ky1mzyjjr1mrwv3sxz4mgjcq5ylh6n01lvhb19h3fmwafkdxbp";
+        version = "0.1.18";
+        sha256 = "1v3j67j8bydyqba20b2wzsfximjnbhknk260zkc0fid1xzzb2sbn";
       };
     };
     matklad.rust-analyzer = buildVscodeMarketplaceExtension {
