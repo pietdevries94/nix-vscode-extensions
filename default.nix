@@ -161,8 +161,8 @@ in
       mktplcRef = {
         name = "vetur";
         publisher = "octref";
-        version = "0.34.1";
-        sha256 = "09w3bik1mxs7qac67wgrc58vl98ham3syrn2anycpwd7135wlpby";
+        version = "0.35.0";
+        sha256 = "1l1w83yix8ya7si2g3w64mczh0m992c0cp2q0262qp3y0gspnm2j";
       };
     };
     svelte.svelte-vscode = buildVscodeMarketplaceExtension {
