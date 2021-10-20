@@ -97,16 +97,16 @@ in
       mktplcRef = {
         name = "vscode-pull-request-github";
         publisher = "github";
-        version = "0.31.0";
-        sha256 = "1hj1dw4zqap2pwxnxh2hh0in24ds7clw8dslsk92i1qfp19v26wr";
+        version = "0.31.1";
+        sha256 = "17az74in63xy460g8m1wsyj0i4gza6rw42fwi1i0l0afl5a8nc2s";
       };
     };
     GitLab.gitlab-workflow = buildVscodeMarketplaceExtension {
       mktplcRef = {
         name = "gitlab-workflow";
         publisher = "GitLab";
-        version = "3.33.0";
-        sha256 = "1hp8kxpbizpj2fgi17snpyh391h01myqm5bh20rc618fmyyi187z";
+        version = "3.33.1";
+        sha256 = "03jj22a39wyxxjsjfs4rcs7hx7kxfxqry199rif8kjzsh975dwdf";
       };
     };
     golang.go = buildVscodeMarketplaceExtension {
