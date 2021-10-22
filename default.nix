@@ -57,8 +57,8 @@ in
       mktplcRef = {
         name = "vscode-eslint";
         publisher = "dbaeumer";
-        version = "2.2.1";
-        sha256 = "02qsxrnidw3yf4a3arv5vg18jnjcpqi99ahpkszmz8z0d0gspkd5";
+        version = "2.2.2";
+        sha256 = "17j4czb1lxgy62l0rsdf06ld3482cqplxglsh7p4zyp50p4samln";
       };
     };
     eamodio.gitlens = buildVscodeMarketplaceExtension {
