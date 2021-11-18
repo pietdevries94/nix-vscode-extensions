@@ -105,8 +105,8 @@ in
       mktplcRef = {
         name = "gitlab-workflow";
         publisher = "GitLab";
-        version = "3.37.0";
-        sha256 = "1ha4a6zxl2hb82jpkddnv4rf7drdq6qppcdcsbf6z0mjqh5s5cii";
+        version = "3.38.0";
+        sha256 = "17l3y05vig4krgk56mq80y8xmlxrmckp49fm28w26v4agg0s1mnb";
       };
     };
     golang.go = buildVscodeMarketplaceExtension {
@@ -169,8 +169,8 @@ in
       mktplcRef = {
         name = "svelte-vscode";
         publisher = "svelte";
-        version = "105.5.2";
-        sha256 = "0hxhd71iaxxbr4qz78xj2k8mycmrd2qqb0hmamygrk9pzl7rvxk3";
+        version = "105.5.3";
+        sha256 = "1pa7san5qz5brnrgrs2ykflrgbq31q5vvy8caj4cxyvvq48s1frb";
       };
     };
     voorjaar.windicss-intellisense = buildVscodeMarketplaceExtension {
