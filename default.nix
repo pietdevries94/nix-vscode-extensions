@@ -65,8 +65,8 @@ in
       mktplcRef = {
         name = "gitlens";
         publisher = "eamodio";
-        version = "11.6.1";
-        sha256 = "0nghanaxa5db7lxfi4nly45iaps560zkwsfhmzhiiaan0hj0qmcs";
+        version = "11.7.0";
+        sha256 = "0apjjlfdwljqih394ggz2d8m599pyyjrb0b4cfcz83601b7hk3x6";
       };
     };
     editorconfig.editorconfig = buildVscodeMarketplaceExtension {
