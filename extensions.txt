@@ -1,5 +1,4 @@
 arrterian.nix-env-selector
-Bauke.horizon-vscode
 bbenoist.Nix
 bradlc.vscode-tailwindcss
 bungcip.better-toml
@@ -15,6 +14,7 @@ golang.go
 graphql.vscode-graphql
 gruntfuggly.todo-tree
 jnoortheen.nix-ide
+LanceWilhelm.horizon-extended
 matklad.rust-analyzer
 naumovs.color-highlight
 octref.vetur

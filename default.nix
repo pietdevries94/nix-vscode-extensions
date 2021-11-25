@@ -13,14 +13,6 @@ in
         sha256 = "0mralimyzhyp4x9q98x3ck64ifbjqdp8cxcami7clvdvkmf8hxhf";
       };
     };
-    Bauke.horizon-vscode = buildVscodeMarketplaceExtension {
-      mktplcRef = {
-        name = "horizon-vscode";
-        publisher = "Bauke";
-        version = "3.0.3";
-        sha256 = "0njdlmvrb8pdk81bv92dppvn3jgqhfc7zx6f349f11yxwgs9hwsr";
-      };
-    };
     bbenoist.Nix = buildVscodeMarketplaceExtension {
       mktplcRef = {
         name = "Nix";
@@ -121,8 +113,8 @@ in
       mktplcRef = {
         name = "vscode-graphql";
         publisher = "graphql";
-        version = "0.3.18";
-        sha256 = "0rnn2rw868pmgpfvldwap2dc6j9dx2sx0jpwbdi8bg6hi3xdlclc";
+        version = "0.3.21";
+        sha256 = "17gbs2krjwbiyf6kj9l884p0w6w8h5yd82fd50rh83a62mdm9pkm";
       };
     };
     gruntfuggly.todo-tree = buildVscodeMarketplaceExtension {
@@ -139,6 +131,14 @@ in
         publisher = "jnoortheen";
         version = "0.1.18";
         sha256 = "1v3j67j8bydyqba20b2wzsfximjnbhknk260zkc0fid1xzzb2sbn";
+      };
+    };
+    LanceWilhelm.horizon-extended = buildVscodeMarketplaceExtension {
+      mktplcRef = {
+        name = "horizon-extended";
+        publisher = "LanceWilhelm";
+        version = "0.1.5";
+        sha256 = "1r76cj79zk89l3d3g7byz2rn0l4b7y704znzwj48zm1myfmmkdvn";
       };
     };
     matklad.rust-analyzer = buildVscodeMarketplaceExtension {
