@@ -14,7 +14,7 @@ golang.go
 graphql.vscode-graphql
 gruntfuggly.todo-tree
 jnoortheen.nix-ide
-LanceWilhelm.horizon-extended
+lakshits11.horizon-legacy
 matklad.rust-analyzer
 naumovs.color-highlight
 octref.vetur

@@ -113,8 +113,8 @@ in
       mktplcRef = {
         name = "vscode-graphql";
         publisher = "graphql";
-        version = "0.3.23";
-        sha256 = "1wws9w0l8j1svn23w3jh7ix0v924vm99bc1gfm233ppimgqm3f9v";
+        version = "0.3.26";
+        sha256 = "0psizw10znix0grmdy5qck13nl106nswxr1qdxvs5kzjda4kv0kb";
       };
     };
     gruntfuggly.todo-tree = buildVscodeMarketplaceExtension {
@@ -133,12 +133,12 @@ in
         sha256 = "1v3j67j8bydyqba20b2wzsfximjnbhknk260zkc0fid1xzzb2sbn";
       };
     };
-    LanceWilhelm.horizon-extended = buildVscodeMarketplaceExtension {
+    lakshits11.horizon-legacy = buildVscodeMarketplaceExtension {
       mktplcRef = {
-        name = "horizon-extended";
-        publisher = "LanceWilhelm";
-        version = "0.1.5";
-        sha256 = "1r76cj79zk89l3d3g7byz2rn0l4b7y704znzwj48zm1myfmmkdvn";
+        name = "horizon-legacy";
+        publisher = "lakshits11";
+        version = "0.0.1";
+        sha256 = "13w3sli69p72z93h48kh1vxldk2bcgmz1zbwwh9myb6ifd0f0c6g";
       };
     };
     matklad.rust-analyzer = buildVscodeMarketplaceExtension {
