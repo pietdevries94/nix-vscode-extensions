@@ -113,8 +113,8 @@ in
       mktplcRef = {
         name = "vscode-graphql";
         publisher = "graphql";
-        version = "0.3.21";
-        sha256 = "17gbs2krjwbiyf6kj9l884p0w6w8h5yd82fd50rh83a62mdm9pkm";
+        version = "0.3.23";
+        sha256 = "1wws9w0l8j1svn23w3jh7ix0v924vm99bc1gfm233ppimgqm3f9v";
       };
     };
     gruntfuggly.todo-tree = buildVscodeMarketplaceExtension {
