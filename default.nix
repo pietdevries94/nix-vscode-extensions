@@ -89,8 +89,8 @@ in
       mktplcRef = {
         name = "vscode-pull-request-github";
         publisher = "github";
-        version = "0.35.2021121509";
-        sha256 = "14z4rg7711x9hsyjnbl6m9sar0rx11fhilxg5r3qcdjwlr6sg3hc";
+        version = "0.35.2021121609";
+        sha256 = "1m5ck6vibkvb40z0bvad2dansfkpvly7mlsawgv8ijbg1p8897xw";
       };
     };
     GitLab.gitlab-workflow = buildVscodeMarketplaceExtension {
@@ -105,8 +105,8 @@ in
       mktplcRef = {
         name = "go";
         publisher = "golang";
-        version = "0.29.0";
-        sha256 = "1ky5xnl300m42ja8sh3b4ynn8k1nnrcbxxhn3c3g5bsyzsrr1nmz";
+        version = "0.30.0";
+        sha256 = "15rmc79ad743hb6pmnzv91rkvl2fb1qwh5gk5q6n9f9vygiyjrix";
       };
     };
     graphql.vscode-graphql = buildVscodeMarketplaceExtension {
@@ -177,8 +177,8 @@ in
       mktplcRef = {
         name = "windicss-intellisense";
         publisher = "voorjaar";
-        version = "0.21.4";
-        sha256 = "0r1mkasf0lbmqv9d5qg25wjb5brg6b0hhs0b3sv85p1ymj346xm0";
+        version = "0.21.5";
+        sha256 = "0k1fs9zgxsq24c7ii003gxjrr991dwdn2rdr1g3igg2js0z212h5";
       };
     };
     vscode-icons-team.vscode-icons = buildVscodeMarketplaceExtension {
