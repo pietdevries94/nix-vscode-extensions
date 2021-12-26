@@ -145,8 +145,8 @@ in
       mktplcRef = {
         name = "rust-analyzer";
         publisher = "matklad";
-        version = "0.3.875";
-        sha256 = "0phsxfbq7kbh1964wnr7fhr07yb31r9pzszyd6nifypwkjzmw65s";
+        version = "0.3.876";
+        sha256 = "1zsrzgj050vdjr1nfyn5z1r897x6ylcp7lgii00sj2zha565z9xd";
       };
     };
     naumovs.color-highlight = buildVscodeMarketplaceExtension {
