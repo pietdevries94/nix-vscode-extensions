@@ -129,8 +129,8 @@ in
       mktplcRef = {
         name = "nix-ide";
         publisher = "jnoortheen";
-        version = "0.1.18";
-        sha256 = "1v3j67j8bydyqba20b2wzsfximjnbhknk260zkc0fid1xzzb2sbn";
+        version = "0.1.19";
+        sha256 = "1ms96ij6z4bysdhqgdaxx2znvczyhzx57iifbqws50m1c3m7pkx7";
       };
     };
     lakshits11.horizon-legacy = buildVscodeMarketplaceExtension {
@@ -145,8 +145,8 @@ in
       mktplcRef = {
         name = "rust-analyzer";
         publisher = "matklad";
-        version = "0.3.887";
-        sha256 = "0sazb2jf7pdhk383273g2fcmk5p63ilijl16jx4q8mdgr3mkvlfl";
+        version = "0.3.888";
+        sha256 = "01a0kn6lxmszxb147mv256gf5zmin14sdfiiyqpyqlsg2b4rd6f1";
       };
     };
     naumovs.color-highlight = buildVscodeMarketplaceExtension {
