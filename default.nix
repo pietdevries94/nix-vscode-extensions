@@ -89,8 +89,8 @@ in
       mktplcRef = {
         name = "vscode-pull-request-github";
         publisher = "github";
-        version = "0.35.2022011109";
-        sha256 = "138rpvy7iwsmmb8vkfkymyxdgm6wrgzb2vh3y9vplbq384n76v11";
+        version = "0.35.2022011209";
+        sha256 = "0n78hmsbwzwkf0ah0f552blj1c174fkcrqjdha6vyxcr2fyjyl4w";
       };
     };
     GitLab.gitlab-workflow = buildVscodeMarketplaceExtension {
@@ -121,8 +121,8 @@ in
       mktplcRef = {
         name = "todo-tree";
         publisher = "gruntfuggly";
-        version = "0.0.214";
-        sha256 = "0rwxjnrl44rnhx3183037k6435xs4772p58a37azl5cahsyav1hk";
+        version = "0.0.215";
+        sha256 = "0lyaijsvi1gqidpn8mnnfc0qsnd7an8qg5p2m7l24c767gllkbsq";
       };
     };
     jnoortheen.nix-ide = buildVscodeMarketplaceExtension {
@@ -145,8 +145,8 @@ in
       mktplcRef = {
         name = "rust-analyzer";
         publisher = "matklad";
-        version = "0.3.900";
-        sha256 = "0qd52sc7cf1276w84ia7mn5hnb0sfgs8nwg426qvhq4dza3apzdb";
+        version = "0.3.901";
+        sha256 = "1r14wpw35sskil932bx0vj2z61azirsfm4wpn3ba0gfasl4ji84k";
       };
     };
     naumovs.color-highlight = buildVscodeMarketplaceExtension {
