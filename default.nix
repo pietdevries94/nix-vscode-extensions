@@ -145,8 +145,8 @@ in
       mktplcRef = {
         name = "rust-analyzer";
         publisher = "matklad";
-        version = "0.3.922";
-        sha256 = "0av2bvm2zfswp23zrr1s7y5qqfnbacvll5y331jkwm7fk6xlafv8";
+        version = "0.3.923";
+        sha256 = "11cp6fv4in1f3pnjyibkcmfciyzjafd83ca59g8s4pdbcnz3q81a";
       };
     };
     naumovs.color-highlight = buildVscodeMarketplaceExtension {
@@ -169,8 +169,8 @@ in
       mktplcRef = {
         name = "svelte-vscode";
         publisher = "svelte";
-        version = "105.10.0";
-        sha256 = "0wdzj8vsfza13ibf36rpni7f5q4vydnzz8ddh5fwlwpq9s48qynq";
+        version = "105.11.1";
+        sha256 = "1zy1k0mjkir2vy8wsng1yry8knhm5xz2wvqs93n4cvjqlm8gsmjh";
       };
     };
     voorjaar.windicss-intellisense = buildVscodeMarketplaceExtension {
