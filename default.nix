@@ -89,8 +89,8 @@ in
       mktplcRef = {
         name = "vscode-pull-request-github";
         publisher = "github";
-        version = "0.37.2022021515";
-        sha256 = "0vf9rjfj9hjnn6kzjva0d1ll482rxgswnvwa74c7qip3dmsh207w";
+        version = "0.37.2022021609";
+        sha256 = "0k5xxzznpwmqiq9zv74ls0hjn3rv404gbby4gdp2xnbmpmhx0nmj";
       };
     };
     GitLab.gitlab-workflow = buildVscodeMarketplaceExtension {
@@ -169,8 +169,8 @@ in
       mktplcRef = {
         name = "svelte-vscode";
         publisher = "svelte";
-        version = "105.11.4";
-        sha256 = "0vr7fkb0n931l4hmbq941yib6a4bgh18ymnc0sllwla45lgfwycl";
+        version = "105.12.1";
+        sha256 = "0w2qpg5v0hxdb8v20lhbnn2mkrin2p02pia6hi3kxzxz5df7gghq";
       };
     };
     voorjaar.windicss-intellisense = buildVscodeMarketplaceExtension {
