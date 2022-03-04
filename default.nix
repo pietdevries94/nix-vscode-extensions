@@ -189,6 +189,14 @@ in
         sha256 = "0n96jdmqqh2v7mni4qv08qjxyhp8h82ck9rhmwnxp66ni5ybmj63";
       };
     };
+    wicked-labs.wvsc-serendipity = buildVscodeMarketplaceExtension {
+      mktplcRef = {
+        name = "wvsc-serendipity";
+        publisher = "wicked-labs";
+        version = "0.103.0";
+        sha256 = "1dish2j30hsi2kp91vrc3cxfw8pq8rwk0rp84biza9pnk5iqxr5j";
+      };
+    };
     znck.vue-language-features = buildVscodeMarketplaceExtension {
       mktplcRef = {
         name = "vue-language-features";
