@@ -89,8 +89,8 @@ in
       mktplcRef = {
         name = "vscode-pull-request-github";
         publisher = "github";
-        version = "0.39.2022030712";
-        sha256 = "1c8w9qdy6jvff1pr00y8zxlfc6bxw07yaw4amxxzcydl1sq3bf81";
+        version = "0.39.2022030809";
+        sha256 = "11djwzf5hxsxkpaqjhd14kxhrkm99lsal9gwrqdg1g01l5kjzkr9";
       };
     };
     GitLab.gitlab-workflow = buildVscodeMarketplaceExtension {
@@ -105,8 +105,8 @@ in
       mktplcRef = {
         name = "go";
         publisher = "golang";
-        version = "0.31.1";
-        sha256 = "1x25x2dxcmi7h1q19qjxgnvdfzhsicq6sf6qig8jc0wg98g0gxry";
+        version = "0.32.0";
+        sha256 = "0a3pmpmmr8gd0p8zw984a73cp2yyi4lvz0s03msvkrxmn5k9xhis";
       };
     };
     graphql.vscode-graphql = buildVscodeMarketplaceExtension {
@@ -145,8 +145,8 @@ in
       mktplcRef = {
         name = "rust-analyzer";
         publisher = "matklad";
-        version = "0.3.963";
-        sha256 = "1rzrznyh3r58a1bdj9fg453qcclsb6lzln8h6a6xk4mn240l7lvb";
+        version = "0.3.968";
+        sha256 = "03bnvlv2gd3jrz9c46nw72nz9abxxll8lifbfb26cam391jp36rl";
       };
     };
     naumovs.color-highlight = buildVscodeMarketplaceExtension {
