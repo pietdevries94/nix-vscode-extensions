@@ -89,8 +89,8 @@ in
       mktplcRef = {
         name = "vscode-pull-request-github";
         publisher = "github";
-        version = "0.39.2022031509";
-        sha256 = "0dki9lwrsg5ry5ya70y7ysy740hs99s5yklg6wq0m7g5iy22hxwi";
+        version = "0.39.2022031614";
+        sha256 = "13f76300dvhavw72jkkhlxx8zl3nwfcgyxhqicqdp9diiln62m3f";
       };
     };
     GitLab.gitlab-workflow = buildVscodeMarketplaceExtension {
@@ -201,8 +201,8 @@ in
       mktplcRef = {
         name = "vue-language-features";
         publisher = "znck";
-        version = "0.9.9";
-        sha256 = "0sinv1abdazv6l7d4hvk31xm258yil4kpcqdaa3ibfyairghhx3n";
+        version = "0.9.10";
+        sha256 = "07l9zpirz1w9ylbg34b86rk81zxinhh16mrs2k5yxhi2bsn5xkps";
       };
     };
   };
