@@ -89,8 +89,8 @@ in
       mktplcRef = {
         name = "vscode-pull-request-github";
         publisher = "github";
-        version = "0.41.2022040609";
-        sha256 = "1d6dph04mqikdpm8fa9bva31ah9g6c7aqz8kg29w18h9r74g2ga6";
+        version = "0.41.2022040709";
+        sha256 = "060fzpgskbvwjbr08hxwajfpcl6b7p0lgy6iryg0gq5gl4fyshyp";
       };
     };
     GitLab.gitlab-workflow = buildVscodeMarketplaceExtension {
@@ -113,8 +113,8 @@ in
       mktplcRef = {
         name = "vscode-graphql";
         publisher = "graphql";
-        version = "0.3.53";
-        sha256 = "0hyn8kj67nw4xbfb72ys5508ii5scbbis6jifxxk04j6f40ysj6c";
+        version = "0.4.1";
+        sha256 = "0gq7y2jq5gipb0r7j2jzmdqp6wlzy360v02c8kni6gxybmk6jfni";
       };
     };
     gruntfuggly.todo-tree = buildVscodeMarketplaceExtension {
@@ -145,8 +145,8 @@ in
       mktplcRef = {
         name = "rust-analyzer";
         publisher = "matklad";
-        version = "0.3.1005";
-        sha256 = "0fywlgw29nvkw8vkzhrsz6399jxczi1jy8kxblsnlh5bm8vpl797";
+        version = "0.3.1006";
+        sha256 = "0b7ia6dmsg9gr9vs9pj6l22cnd698a91v236frl1068ihxn0p460";
       };
     };
     naumovs.color-highlight = buildVscodeMarketplaceExtension {
@@ -169,8 +169,8 @@ in
       mktplcRef = {
         name = "svelte-vscode";
         publisher = "svelte";
-        version = "105.13.0";
-        sha256 = "1hb44nigif4013k0ika5rpn8jq3hymrqflk1lwdiym3jjcgziwpv";
+        version = "105.14.0";
+        sha256 = "0ynysl3246rn28ffdnlb5qj6wpavy1bkxqaqk4mdznza8rks62xv";
       };
     };
     voorjaar.windicss-intellisense = buildVscodeMarketplaceExtension {
@@ -201,8 +201,8 @@ in
       mktplcRef = {
         name = "vue-language-features";
         publisher = "znck";
-        version = "0.9.24";
-        sha256 = "1iawgc0ap9sy3acamfgdabp60jrjd76frzjh19kdkp6bsq21g7vg";
+        version = "0.9.25";
+        sha256 = "1vbb2kvka7h8p5sgjlyg6zmw4xazmh95qfwq8z65yzv5cczs19l2";
       };
     };
   };
