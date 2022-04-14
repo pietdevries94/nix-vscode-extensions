@@ -25,8 +25,8 @@ in
       mktplcRef = {
         name = "vscode-tailwindcss";
         publisher = "bradlc";
-        version = "0.7.7";
-        sha256 = "08ghx6y5rxfnzxlpb623gb70qhiwa3dqgmy8zac1ywh4nwmi64x9";
+        version = "0.8.1";
+        sha256 = "12gsf3521b5kv8j40ywqlqv9fwfnq9vvfggil6ynlh0sgn7l2is7";
       };
     };
     bungcip.better-toml = buildVscodeMarketplaceExtension {
@@ -89,8 +89,8 @@ in
       mktplcRef = {
         name = "vscode-pull-request-github";
         publisher = "github";
-        version = "0.41.2022041209";
-        sha256 = "1qx00ac9b0v1137705dv3df78c8pnbx8sp79n377fxqlqv30iwsr";
+        version = "0.41.2022041309";
+        sha256 = "00nnd8c5lv77124jcbqwxfsh25pph1sbx6b3rf5iilfqxsd2k0s1";
       };
     };
     GitLab.gitlab-workflow = buildVscodeMarketplaceExtension {
