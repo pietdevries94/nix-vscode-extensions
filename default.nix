@@ -145,8 +145,8 @@ in
       mktplcRef = {
         name = "rust-analyzer";
         publisher = "matklad";
-        version = "0.3.1017";
-        sha256 = "1j0fa18bjrywkwsg2b4vx7j7n9da9z6r1ym065mg3dk05cb3wwfp";
+        version = "0.3.1024";
+        sha256 = "122yfa9njvk0438n75hgdy8bx6ckx8vrscyjfp2zisk8i0f0hirz";
       };
     };
     naumovs.color-highlight = buildVscodeMarketplaceExtension {
@@ -185,8 +185,8 @@ in
       mktplcRef = {
         name = "vscode-icons";
         publisher = "vscode-icons-team";
-        version = "11.10.0";
-        sha256 = "0n96jdmqqh2v7mni4qv08qjxyhp8h82ck9rhmwnxp66ni5ybmj63";
+        version = "11.11.0";
+        sha256 = "0qd9y0rb1j70iha8gqkxv2xvds6n4db8p0h8arlqcsfayljkn5v6";
       };
     };
     wicked-labs.wvsc-serendipity = buildVscodeMarketplaceExtension {
