@@ -89,8 +89,8 @@ in
       mktplcRef = {
         name = "vscode-pull-request-github";
         publisher = "github";
-        version = "0.43.2022051009";
-        sha256 = "0nhigfxds6jkzvlkwa83bmp395zfzwdiz77g7jrbg9dinf4sbi4i";
+        version = "0.43.2022051114";
+        sha256 = "0ivbikgajc6ma460z89ibknkb0a747i7iw2fjjd2am78zyq8cs14";
       };
     };
     GitLab.gitlab-workflow = buildVscodeMarketplaceExtension {
@@ -145,8 +145,8 @@ in
       mktplcRef = {
         name = "rust-analyzer";
         publisher = "matklad";
-        version = "0.3.1050";
-        sha256 = "1waa8211alx2gp1724p52wcgh382f7l1wg49fwjhx8gr0az57sk9";
+        version = "0.3.1051";
+        sha256 = "10vfgn6yx6gx2jbzfmzq8aym9303pn1kzydn96rcyl9ab5b3xaih";
       };
     };
     naumovs.color-highlight = buildVscodeMarketplaceExtension {
