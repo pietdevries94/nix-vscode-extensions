@@ -89,8 +89,8 @@ in
       mktplcRef = {
         name = "vscode-pull-request-github";
         publisher = "github";
-        version = "0.43.2022051114";
-        sha256 = "0ivbikgajc6ma460z89ibknkb0a747i7iw2fjjd2am78zyq8cs14";
+        version = "0.43.2022051220";
+        sha256 = "1mvxyajnlg8jvahszm8z0swdr5k2npdxlidcch8bh83d4gc81a19";
       };
     };
     GitLab.gitlab-workflow = buildVscodeMarketplaceExtension {
