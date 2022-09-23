@@ -15,7 +15,7 @@ graphql.vscode-graphql
 gruntfuggly.todo-tree
 jnoortheen.nix-ide
 lakshits11.horizon-legacy
-matklad.rust-analyzer
+piousdeer.adwaita-theme
 naumovs.color-highlight
 octref.vetur
 svelte.svelte-vscode
